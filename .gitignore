@@ -6,6 +6,7 @@
 # production
 /bin
 
+
 # misc
 .vs/
-
+UsersGenerator.*
